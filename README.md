@@ -5,6 +5,8 @@
 ## Description
 BeHealthy, a health tech company, aims to connect medical communities with patients through a web platform. The platform enables doctors to list services, manage patient interactions, and provide services like booking appointments and ordering medicines online. However, understanding medical terms in patient notes can be challenging for non-medical professionals. The goal of this project is to build a custom Named Entity Recognition (NER) model to identify disease names and their possible treatments from medical data.
 
+![image](NER.jpg)
+
 ### Challenges
 
 1. **Medical Terminology**: Medical notes contain specialized terminology that can be difficult for non-medical professionals to understand. The NER model needs to accurately identify and extract these terms.
